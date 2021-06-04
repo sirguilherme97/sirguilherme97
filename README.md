@@ -1,5 +1,5 @@
-### Hi, Dev 🚀📱💻
-<h5>"Beware of the easy path. Knowledge grows only through challenge."</h5>
+<h1>Hi, Dev 🚀📱💻</h1>
+<h4>"Beware of the easy path. Knowledge grows only through challenge."</h4>
 
 <h4>Social networks</h4>
 <ul>
@@ -12,7 +12,6 @@
 </ul>
 	
 <h4>About me</h4>
-	<img title="Me =)" src="https://github.com/sirguilherme97/sirguilherme97/blob/main/assets/img_perfil.svg"/>
 <p>
 		My name: Guilherme Henrique<br>
 		Religion: Christian ✝<br>
