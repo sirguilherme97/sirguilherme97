@@ -12,13 +12,13 @@
 </ul>
 	
 <h4>About me</h4>
-	<img src="#"/>
+	<img title="Me =)" src="https://github.com/sirguilherme97/sirguilherme97/blob/main/assets/img_perfil.svg"/>
 <p>
 		My name: Guilherme Henrique<br>
 		Religion: Christian ✝<br>
 		My age: 23<br>
 		Country: Brazil 🇧🇷<br>
-		Company:<br><br><a href="https://facebook.com/GMTechBR"><img src="#"/><br>GM TECH</a><br>
+		Company:<br><br><a href="https://facebook.com/GMTechBR"><img title="GM TECH" src="https://github.com/sirguilherme97/sirguilherme97/blob/main/assets/Logo.png"/><br></a><br>
 </p>
 <!--
 **sirguilherme97/sirguilherme97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
