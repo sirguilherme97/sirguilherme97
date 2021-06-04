@@ -1,5 +1,25 @@
-### Hi there 👋
+### Hi, Dev 🚀📱💻
+<h5>"Beware of the easy path. Knowledge grows only through challenge."</h5>
 
+<h4>Social networks</h4>
+<ul>
+	<a href="https://www.linkedin.com/in/sirguilherme97/"/>📈 Linkedin<br>
+	<a href="https://www.facebook.com/Guilhermehls/">⚙ Facebook</a><br>
+	<a href="https://twitter.com/Sir_Guilherme_">📋 Twitter</a><br>
+	<a href="https://www.instagram.com/sir._.guilherme/">📸 Instagram</a><br>
+	<a href="https://www.youtube.com/channel/UCrhKC4TO2fF9p_fHZiYYlyA">▶ Youtube</a><br>
+	<a href="https://play.google.com/store/apps/dev?id=8070569476379446009">👜 Play Store</a>
+</ul>
+	
+<h4>About me</h4>
+	<img src="#"/>
+<p>
+		My name: Guilherme Henrique<br>
+		Religion: Christian ✝<br>
+		My age: 23<br>
+		Country: Brazil 🇧🇷<br>
+		Company:<br><br><a href="https://facebook.com/GMTechBR"><img src="#"/><br>GM TECH</a><br>
+</p>
 <!--
 **sirguilherme97/sirguilherme97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
