@@ -1,4 +1,4 @@
-<h1>Hi, Dev 🚀📱💻</h1>
+<h1>Hi, Dev 🚀</h1>
 <h4>"Beware of the easy path. Knowledge grows only through challenge."</h4>
 
 <h4>Social networks</h4>
