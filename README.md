@@ -27,7 +27,7 @@
 <!-- 	Company:<br><br><a href="https://facebook.com/GMTechBR"><img title="GM TECH" src="https://github.com/sirguilherme97/sirguilherme97/blob/main/assets/Logo.png"/> -->
 	
 	
-	<br></a><br>
+<!-- 	<br></a><br> -->
 </p>
 <!--
 **sirguilherme97/sirguilherme97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
