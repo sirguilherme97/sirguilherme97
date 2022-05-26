@@ -22,6 +22,12 @@
 		My name: Guilherme Henrique<br>
 		Religion: Christian ✝<br>
 		My age: 24<br>
+
+## ⚙️ &nbsp;GitHub Analytics
+<div align="left" style="display: block">
+ <img  width="530em" src="https://github-readme-stats.vercel.app/api?username=sirguilherme97&show_icons=true&theme=midnight-purple" /> &ensp;
+ <img  width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirguilherme97&layout=compact&theme=midnight-purple&count_private=true" />
+</div>
 	
 ## Some of the languages or frameworks that I use to work with:
 
