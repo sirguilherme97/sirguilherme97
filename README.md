@@ -22,24 +22,23 @@
 		My name: Guilherme Henrique<br>
 		Religion: Christian ✝<br>
 		My age: 24<br>
-	Country: <a href="https://facebook.com/GMTechBR">GM Tech</a>
-		
-<!-- 	Company:<br><br><a href="https://facebook.com/GMTechBR"><img title="GM TECH" src="https://github.com/sirguilherme97/sirguilherme97/blob/main/assets/Logo.png"/> -->
 	
-	
-<!-- 	<br></a><br> -->
-</p>
-<!--
-**sirguilherme97/sirguilherme97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some of the languages or frameworks that I use to work with:
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+ <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> &ensp;
+ <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />  &ensp;
+ <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> &ensp;
+ <img height= "40" width= "40" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" /> &ensp;
+ <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />  &ensp;
+ <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> &ensp;
+ &ensp;
+ <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  &ensp;
+ <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &ensp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## Environments: <br>
+<div>
+  <img height= "50" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />  &ensp;
+</div>
