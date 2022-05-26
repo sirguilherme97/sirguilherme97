@@ -35,7 +35,6 @@
  <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> &ensp;
  <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />  &ensp;
  <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> &ensp;
- <img height= "40" width= "40" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" /> &ensp;
  <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />  &ensp;
  <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> &ensp;
  &ensp;
