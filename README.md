@@ -11,7 +11,6 @@
 <ul>
 	<a href="https://www.linkedin.com/in/sirguilherme97/"/>📈 Linkedin<br>
 	<a href="https://www.facebook.com/Guilhermehls/">⚙ Facebook</a><br>
-	<a href="https://twitter.com/Sir_Guilherme_">📋 Twitter</a><br>
 	<a href="https://www.instagram.com/sir._.guilherme/">📸 Instagram</a><br>
 	<a href="https://www.youtube.com/channel/UCrhKC4TO2fF9p_fHZiYYlyA">▶ Youtube</a><br>
 	<a href="https://play.google.com/store/apps/dev?id=8070569476379446009">👜 Play Store</a>
