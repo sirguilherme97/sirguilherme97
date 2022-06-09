@@ -1,5 +1,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/sirguilherme97?color=111&logo=github&logoColor=fff&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=sirguilherme97)
 
 <div>
 	<h1>Hi, Dev 🚀</h1>
