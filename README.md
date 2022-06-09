@@ -30,3 +30,5 @@ I'm Guilherme, get to know me a little more here below<br>
 <div style="display: inline_block"><br>
  <img height="120" width="90%" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,nodejs,figma,tailwind,sass,html,css,c,cpp,py,blender,ps,vscode,stackoverflow,discord,svg&perline=10"><br></br>
 </div>
+
+![Snake SVG](https://github.com/sirguilherme97/sirguilherme97/blob/output/github-contribution-grid-snake.svg)
