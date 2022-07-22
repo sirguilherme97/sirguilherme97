@@ -20,7 +20,7 @@ I'm Guilherme, get to know me a little more here below<br>
 <a href="https://www.instagram.com/sir._.guilherme/">📸 Instagram</a><br>
 <a href="https://www.youtube.com/channel/UCrhKC4TO2fF9p_fHZiYYlyA">▶ Youtube</a><br>
 <a href="https://play.google.com/store/apps/dev?id=8070569476379446009">👜 Play Store</a>
-
+    
 <h3>GitHub Analytics</h3>
 <div align="left" style="display: block">
  <img  width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirguilherme97&layout=compact&theme=ocean_dark&count_private=true" />
