@@ -10,7 +10,7 @@ I'm Guilherme, get to know me a little more here below<br>
 <h4>About me</h4>
 <p>
 		Religion: Christian ✝<br>
-		My age: 24<br>
+		My age: 25<br>
 		Nationality: Brazilian
 </p>
 
