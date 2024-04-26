@@ -67,6 +67,6 @@ Tenho uma sólida experiência em desenvolvimento Frontend, trabalhando com tecn
 ![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)
 
 
-## Estatísticas do GitHub
+## Estatísticas do GitHub 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirguilherme97&layout=compact&theme=ocean_dark&count_private=true)
