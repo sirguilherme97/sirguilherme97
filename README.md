@@ -4,7 +4,8 @@
 ![Static Badge](https://img.shields.io/badge/npm%20add%20frontend-Guilherme%20Henrique-black?style=for-the-badge&logo=npm&labelColor=gray&color=darkviolet)
 
 I have solid experience in Front End development, working with technologies such as ![Static Badge](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black)![Static Badge](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Vite-black?style=flat&logo=vite)![Static Badge](https://img.shields.io/badge/GraphQL-black?style=flat&logo=graphql&logoColor=E10098) I am constantly improving my skills and always looking for new challenges and opportunities to create innovative experiences for users. ![Static Badge](https://img.shields.io/badge/!useGambiarra(%20)-white?style=flat&logo=windowsterminal&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Vite-black?style=flat&logo=vite)![Static Badge](https://img.shields.io/badge/GraphQL-black?style=flat&logo=graphql&logoColor=E10098) 
+<br/>I am constantly improving my skills and always looking for new challenges and opportunities to create innovative experiences for users. ![Static Badge](https://img.shields.io/badge/!useGambiarra(%20)-white?style=flat&logo=windowsterminal&logoColor=black)
 
 
 <h2>About me</h2>
