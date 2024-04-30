@@ -3,14 +3,14 @@
 ![](https://komarev.com/ghpvc/?username=sirguilherme97&style=for-the-badge&color=gray)</br>
 ![Static Badge](https://img.shields.io/badge/npm%20add%20frontend-Guilherme%20Henrique-black?style=for-the-badge&logo=npm&labelColor=gray&color=darkviolet)
 
-Tenho uma sólida experiência em desenvolvimento Frontend, trabalhando com tecnologias como ![Static Badge](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black)![Static Badge](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Vite-black?style=flat&logo=vite)![Static Badge](https://img.shields.io/badge/GraphQL-black?style=flat&logo=graphql&logoColor=E10098) Estou constantemente aprimorando minhas habilidades e sempre em busca de novos desafios e oportunidades para criar experiências inovadoras para os usuários. ![Static Badge](https://img.shields.io/badge/!useGambiarra(%20)-white?style=flat&logo=windowsterminal&logoColor=black)
+I have solid experience in Front End development, working with technologies such as ![Static Badge](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black)![Static Badge](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Vite-black?style=flat&logo=vite)![Static Badge](https://img.shields.io/badge/GraphQL-black?style=flat&logo=graphql&logoColor=E10098) I am constantly improving my skills and always looking for new challenges and opportunities to create innovative experiences for users. ![Static Badge](https://img.shields.io/badge/!useGambiarra(%20)-white?style=flat&logo=windowsterminal&logoColor=black)
 
 
-<h2>Sobre mim</h2>
-<span>Cristão<br/>26 anos <br/>Brasileiro</span>
+<h2>About me</h2>
+<span>Christian<br/>26 years old<br/>Brazilian</span>
 
-## Redes Sociais
+## Social media
 
 <a href="https://www.linkedin.com/in/sirguilherme97/">![Static Badge](https://img.shields.io/badge/Sirguilherme97-black?style=for-the-badge&logo=linkedin&logoColor=blue&color=black)</a>
 <a href="https://www.facebook.com/Guilhermehls/">![Static Badge](https://img.shields.io/badge/Guilhermehls-black?style=for-the-badge&logo=facebook&logoColor=blue&color=black)</a>
@@ -21,7 +21,7 @@ Tenho uma sólida experiência em desenvolvimento Frontend, trabalhando com tecn
 
 
 
-## Linguagens e Tecnologias
+## Languages and Technologies
 
 <!--
 
@@ -67,6 +67,6 @@ Tenho uma sólida experiência em desenvolvimento Frontend, trabalhando com tecn
 ![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)
 
 
-## Estatísticas do GitHub 
+## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirguilherme97&layout=compact&theme=ocean_dark&count_private=true)
