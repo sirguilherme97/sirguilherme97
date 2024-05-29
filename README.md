@@ -24,12 +24,6 @@ I have solid experience in Front End development, working with technologies such
 
 ## Languages and Technologies
 
-<!--
-
-![Linguagens e Frameworks](https://skillicons.dev/icons?i=vercel,js,react,astro,nextjs,nestjs,vite,nodejs,graphql,apollo,tailwind,materialui,unity,sass,html,ts,c,cpp,cs,py,blender,sketchup,github,discord,linkedin,instagram&perline=10)
-
--->
-
 ![Static Badge](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
