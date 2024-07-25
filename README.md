@@ -1,6 +1,6 @@
 <!--![GitHub followers](https://img.shields.io/github/followers/sirguilherme97?color=111&logo=github&logoColor=fff&style=for-the-badge)*/-->
 ![Static Badge](https://img.shields.io/badge/Hello%20World-white?style=for-the-badge&logo=windowsterminal&logoColor=black)<br/>
-![](https://komarev.com/ghpvc/?username=sirguilherme97&style=for-the-badge&color=gray)</br>
+![](https://komarev.com/ghpvc/?username=sirguilherme97&style=for-the-badge&color=gray)</br> 
 ![Static Badge](https://img.shields.io/badge/npm%20add%20frontend-Guilherme%20Henrique-black?style=for-the-badge&logo=npm&labelColor=gray&color=darkviolet)
 
 I have solid experience in Front End development, working with technologies such as ![Static Badge](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black)![Static Badge](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
