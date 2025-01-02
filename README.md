@@ -13,7 +13,7 @@ As a Front-End Developer, I specialize in building dynamic and responsive web ap
 and ![Static Badge](https://img.shields.io/badge/React%20Native-%2361DAFB?style=flat). I also have solid experience with backend frameworks like ![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat). I am passionate about improving user experience through clean, efficient code and enjoy taking on complex challenges that push my technical abilities. My focus is on creating seamless, innovative solutions that deliver high performance and enhance the overall user experience. I'm always looking for opportunities to grow and collaborate on exciting new projects.
 
 <h2>About me</h2>
-<span>Christian<br/>26 years old<br/>Brazilian</span>
+<span>Christian<br/>27 years old<br/>Brazilian</span>
 
 ## Social media
 
