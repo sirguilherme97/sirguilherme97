@@ -66,4 +66,5 @@ and ![Static Badge](https://img.shields.io/badge/React%20Native-%2361DAFB?style=
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirguilherme97&layout=compact&theme=ocean_dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirguilherme97&layout=compact&theme=ocean_dark&count_private=true) <br/>
+[![roadmap.sh](https://roadmap.sh/card/tall/67ee3fd7d3017ef47d1216db?variant=dark&roadmaps=computer-science%2Cfrontend%2Cproduct-manager%2Creact)](https://roadmap.sh) <br/>
