@@ -9,7 +9,7 @@ I have solid experience in Front End development, working with technologies such
 <br/>I am constantly improving my skills and always looking for new challenges and opportunities to create innovative experiences for users. ![Static Badge](https://img.shields.io/badge/!useGambiarra(%20)-white?style=flat&logo=windowsterminal&logoColor=black)
 -->
 
-As a Front-End Developer, I specialize in building dynamic and responsive web applications using cutting-edge technologies like ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat) ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=flat) ![Static Badge](https://img.shields.io/badge/NextJS-%23000000?style=flat)
+As a FullStack Developer, I specialize in building dynamic and responsive web applications using cutting-edge technologies like ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat) ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=flat) ![Static Badge](https://img.shields.io/badge/NextJS-%23000000?style=flat)
 and ![Static Badge](https://img.shields.io/badge/React%20Native-%2361DAFB?style=flat). I also have solid experience with frameworks like ![Static Badge](https://img.shields.io/badge/NextJS-%23000000?style=flat). I am passionate about improving user experience through clean, efficient code and enjoy taking on complex challenges that push my technical abilities. My focus is on creating seamless, innovative solutions that deliver high performance and enhance the overall user experience. I'm always looking for opportunities to grow and collaborate on exciting new projects.
 
 <h2>About me</h2>
