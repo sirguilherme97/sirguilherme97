@@ -63,8 +63,3 @@ and ![Static Badge](https://img.shields.io/badge/React%20Native-%2361DAFB?style=
 ![Static Badge](https://img.shields.io/badge/stackoverflow-%23F58025?style=for-the-badge&logo=stackoverflow&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirguilherme97&layout=compact&theme=ocean_dark&count_private=true) <br/>
-
